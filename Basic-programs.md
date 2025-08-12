@@ -1,1 +1,21 @@
-# CSP-USING-PYTHON
+#problem statement-1
+
+Write a Python program that takes an integer as input and determines whether it is an even number or an odd number. Display the result accordingly.
+<img width="686" height="230" alt="image" src="https://github.com/user-attachments/assets/e49c7882-ed49-4c5c-a99c-1abc7a784575" />
+
+#problem statement-2
+
+Write a Python program that accepts three integers from the user and determines the largest among them. Display the largest number as the output.
+<img width="1317" height="194" alt="image" src="https://github.com/user-attachments/assets/088cb986-e07c-4580-8afa-ba0857e6607f" />
+
+#problem statement-3
+
+Write a Python program that takes a positive integer as input and calculates its factorial using a for loop. Display the factorial as the output.
+<img width="1534" height="223" alt="image" src="https://github.com/user-attachments/assets/b2fe97d5-564f-45fc-a404-7e3e44e444d7" />
+
+#problem statement-4
+
+Write a Python program that takes two numbers (which may be integers or decimals) as input from the user and calculates their sum. Display the result.
+
+<img width="1418" height="182" alt="image" src="https://github.com/user-attachments/assets/b9f7d64e-a52c-4de7-8633-a948b5d09af5" />
+
